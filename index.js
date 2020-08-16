@@ -1,0 +1,1 @@
+evenOddConverter=n=>n^1
